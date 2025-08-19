@@ -8,4 +8,5 @@ This TidyTuesday I tackle a Scottish Munro dataset curated by Nicola Rennie. The
 One of the prompts for this dataset was "Which Munro is the most remote?" which I decided to analyse from a human population perspective:
 
 ![Scotland Population Density Heatmap](scotland_pop_density.png)
+
 Scotland Population Density Heatmap
